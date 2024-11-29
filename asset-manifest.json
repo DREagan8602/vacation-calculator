@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vacation-calculato/static/css/main.cfad0594.css",
+    "main.js": "/vacation-calculato/static/js/main.63734ec6.js",
+    "static/js/453.4c06cfa6.chunk.js": "/vacation-calculato/static/js/453.4c06cfa6.chunk.js",
+    "index.html": "/vacation-calculato/index.html",
+    "main.cfad0594.css.map": "/vacation-calculato/static/css/main.cfad0594.css.map",
+    "main.63734ec6.js.map": "/vacation-calculato/static/js/main.63734ec6.js.map",
+    "453.4c06cfa6.chunk.js.map": "/vacation-calculato/static/js/453.4c06cfa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfad0594.css",
+    "static/js/main.63734ec6.js"
+  ]
+}
