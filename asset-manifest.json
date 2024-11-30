@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vacation-calculator/static/css/main.685b3037.css",
-    "main.js": "/vacation-calculator/static/js/main.771b0eb1.js",
+    "main.css": "/vacation-calculator/static/css/main.f407741b.css",
+    "main.js": "/vacation-calculator/static/js/main.7ddcca9d.js",
     "static/js/453.f534b361.chunk.js": "/vacation-calculator/static/js/453.f534b361.chunk.js",
     "index.html": "/vacation-calculator/index.html",
-    "main.685b3037.css.map": "/vacation-calculator/static/css/main.685b3037.css.map",
-    "main.771b0eb1.js.map": "/vacation-calculator/static/js/main.771b0eb1.js.map",
+    "main.f407741b.css.map": "/vacation-calculator/static/css/main.f407741b.css.map",
+    "main.7ddcca9d.js.map": "/vacation-calculator/static/js/main.7ddcca9d.js.map",
     "453.f534b361.chunk.js.map": "/vacation-calculator/static/js/453.f534b361.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.685b3037.css",
-    "static/js/main.771b0eb1.js"
+    "static/css/main.f407741b.css",
+    "static/js/main.7ddcca9d.js"
   ]
 }
